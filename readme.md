@@ -15,4 +15,9 @@ git log
 git status
 git blame filename
 git log --oneline --graph
-git branch "user/name/file"
+
+## Branching
+git branch
+git branch branch-name
+git switch branch-name
+git merge source-branch (Make sure you're on the destination branch)
